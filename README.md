@@ -10,7 +10,7 @@ Hi, my name is Javlon.
 </samp>
 <br /> <br />
 <samp>
-Focused on results and delivering clean, high-quality code.<br />Tomorrow is going to be a better day unless you make it worse🍀
+Focused on results and delivering clean, high-quality code.<br />Tomorrow is going to be a better day unless you make it worse 🍀
 </samp>
 <br /> <br />
 <samp>
